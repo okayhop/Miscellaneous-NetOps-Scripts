@@ -1,0 +1,2 @@
+1 - Location,2 - Sub-Location,3 - Region,4 - Priority,5 - Priority (alt),6 - XXX,7 - Site Code,8 - Priority Code,9 - Media Type,10 - Server Name,11 - CMIC IP,12 - CMIC Mask,13 - CMIC Gateway,14 - CMIC VLAN,15 - MGMT IP,16 - MGMT Mask,17 - MGMT Gateway,18 - MGMT VLAN,19 - vMotion IP,20 - vMotion Mask,21 - vMotion VLAN,22 - vSAN IP,23 - vSAN Mask,24 - vSAN VLAN
+str,str,str,int,int,int,int,int,str,str,str,str,str,str,str,str,str,str,str,str,str,str,str,str

@@ -1,0 +1,30 @@
+interface vlan 1001
+ip address 10.1.101.1 255.255.255.248 secondary
+interface vlan 1000
+ip address 1.1.101.1 255.255.255.248 secondary
+interface vlan 1100
+ip address 10.1.10.1 255.255.255.248 secondary
+interface vlan 1200
+ip address 10.1.111.1 255.255.255.248 secondary
+interface vlan 1001
+ip address 10.1.101.1 255.255.255.248 secondary
+interface vlan 1000
+ip address 1.1.102.1 255.255.255.248 secondary
+interface vlan 1100
+ip address 10.2.10.1 255.255.255.248 secondary
+interface vlan 1200
+ip address 10.1.112.1 255.255.255.248 secondary
+interface vlan 1001
+ip address 10.1.101.1 255.255.255.248 secondary
+interface vlan 1000
+ip address 1.1.103.1 255.255.255.248 secondary
+interface vlan 1100
+ip address 10.3.10.1 255.255.255.248 secondary
+interface vlan 1200
+ip address 10.1.113.1 255.255.255.248 secondary
+interface vlan 1001
+ip address 10.1.101.1 255.255.255.240 secondary
+interface vlan 1000
+ip address 1.1.101.1 255.255.255.240 secondary
+interface vlan 1100
+ip address 10.11.10.1 255.255.255.240 secondary
