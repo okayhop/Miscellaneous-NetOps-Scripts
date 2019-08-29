@@ -4,7 +4,7 @@
 
 As projects come and go, I have found that writing some quick scripts for automation work
 can save me a ton of time. These scripts are geared to the "one and done" type of task items
-where a full fledge development projects would be grossly overkill.
+where a full fledged development project would be grossly overkill.
 
 
 ### How To Use
@@ -19,5 +19,5 @@ adapt code for your use case and *me* for remembering what I did and for what pu
 * SVI_config 
 	* I needed to configure a TON of SVIs on a Cisco 3850 stack for an infrastructure deployment
 	project. This script imports a CSV file, inputs the data into a SVI template, and then pushes 
-	the configuration to the switch. If the switch is not reachable, it dumps the config to
+	configuration snippet, and pushes to the switch. If the switch is not reachable, it dumps the config to
 	a text file. Orginally written for Python 2.7.
