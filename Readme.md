@@ -6,7 +6,7 @@ As projects come and go, I have found that writing some quick scripts for automa
 can save me a ton of time. These scripts are geared to the "one and done" type of task items
 where a full fledged development project would be grossly overkill.
 
-I also utilize these scripts.examples in my blog. You can find it at www.koreyhopkins.com
+I also utilize these script examples in my blog. You can find it at www.koreyhopkins.com
 ### How To Use
 
 As I add scripts over time, I will update the **Contents** section of this Readme with a 
@@ -26,3 +26,6 @@ adapt code for your use case and *me* for remembering what I did and for what pu
     * Demonstrating how one could use the concept of unit testing for testing that a network device
     works as intended.
 
+* Google SMTP
+    * Scraps Google DNS TXT records to get public IP blocks used by Google's mail service. This info is then
+    used to configure a Cisco ASAv firewall hosted in my home lab.

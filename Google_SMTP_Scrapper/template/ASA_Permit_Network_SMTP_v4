@@ -1,0 +1,1 @@
+access-list GOOGLE_SMTP_NETWORKS extended permit tcp any {{ network }} {{ netmask }} eq smtp
